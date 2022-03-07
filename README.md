@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @CodeIssue
+# HI 👋
 
-🚒 letz GoCode.
+## Code Issues
+- Some personal projects.
